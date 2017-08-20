@@ -1,0 +1,7 @@
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#include <glad/glad.h>
+#include <GLFW/glfw3.h>
+
+#endif /* PrefixHeader_pch */
